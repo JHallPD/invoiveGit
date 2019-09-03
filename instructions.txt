@@ -1,0 +1,5 @@
+Using the V2 InVoice.png image as a reference, create a website to match the design as closely as possible. All of the custom assets that you will need are within the img folder. Any missing icons can be found online and should be included in the completed package.
+
+Use your own discretion to make the page responsive and mobile friendly.
+
+Please complete the assignment within 2 days and send us back a zipped folder containing all of the files needed to display your page.
